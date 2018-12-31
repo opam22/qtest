@@ -1,0 +1,1 @@
+sudo ps -ef | grep httpd | wc -l

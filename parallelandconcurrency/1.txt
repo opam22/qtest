@@ -1,0 +1,6 @@
+Concurrency is about 'dealing' with lots of things at once. 
+Parallelism is about 'doing' lots of things at once. 
+Concurrency is about the structure. 
+While parallelism is about the execution.
+
+In the end concurrency can enable parallelism.
